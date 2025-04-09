@@ -9,8 +9,8 @@ A simple RESTful API built with **Node.js** and **Express.js** that serves rando
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/random-jokes-api.git
-cd random-jokes-api
+git clone https://github.com/puja-1998/Random-Joke-API-Nodejs.git
+cd Random-Joke-API
 
 ### 2. Install Dependencies
 
